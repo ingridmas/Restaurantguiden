@@ -4,15 +4,15 @@ html,
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
-  color-scheme: light dark;
+  color-scheme: blue;
 }
 
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-  background-color: #eae7dc;
+  font-family: 'Comic Sans MS'; /*-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;*/
+  background-color: lightblue;
   display: flex;
   place-items: center;
 }
